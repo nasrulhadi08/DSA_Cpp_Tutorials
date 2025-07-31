@@ -13,5 +13,5 @@ int main (){
     */
 
     unsigned int a = 112;   // unsigned is used to store only +ve values if we store -ve value it will give unexpected result
-    cout << a << endl; 
+    cout << a << endl;  
 }
